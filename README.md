@@ -30,7 +30,3 @@ The function returns the numeric portion of the student ID.
 
 ## Author
 Sherika Fayson
-
-Author
-
-Sherika Fayson
